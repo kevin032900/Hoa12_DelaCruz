@@ -1,0 +1,17 @@
+CONTAINER ID   IMAGE             COMMAND                  CREATED         STATUS                     PORTS                                       NAMES
+1b460ea8647a   sampleapp         "/bin/sh -c 'python3…"   7 minutes ago   Up 7 minutes               0.0.0.0:8080->8080/tcp, :::8080->8080/tcp   samplerunning
+43fcba953831   f91a0dd58350      "/bin/sh -c 'apt ins…"   2 weeks ago     Exited (1) 2 weeks ago                                                 jovial_bose
+0a77a68ae075   f91a0dd58350      "/bin/sh -c 'apt ins…"   2 weeks ago     Exited (1) 2 weeks ago                                                 elated_northcutt
+2d509a896997   f91a0dd58350      "/bin/sh -c 'apt ins…"   2 weeks ago     Exited (1) 2 weeks ago                                                 quirky_bassi
+a6c98ee5f034   9f7a924569ad      "/bin/sh -c 'apt ins…"   2 weeks ago     Exited (1) 2 weeks ago                                                 brave_beaver
+a48a6f7e4fb6   apache-test:1.1   "apachectl -DFOREGRO…"   2 weeks ago     Exited (137) 2 weeks ago                                               modest_goodall
+72df71841b75   apache-test:1.0   "/bin/bash"              2 weeks ago     Exited (137) 2 weeks ago                                               pensive_joliot
+4e8871b2569e   apache-test:1.0   "/bin/bash"              2 weeks ago     Created                                                                ecstatic_brattain
+6da010d60274   nginx             "/docker-entrypoint.…"   2 weeks ago     Exited (137) 2 weeks ago                                               elastic_rhodes
+e92766cc198f   nginx             "/docker-entrypoint.…"   2 weeks ago     Exited (0) 2 weeks ago                                                 nervous_ellis
+963b9de2351d   nginx             "/docker-entrypoint.…"   2 weeks ago     Exited (0) 2 weeks ago                                                 nervous_benz
+e92063693326   ubuntu            "/bin/bash"              2 weeks ago     Exited (137) 2 weeks ago                                               tender_keller
+364d5e15bb12   ubuntu            "/bin/bash"              2 weeks ago     Exited (0) 2 weeks ago                                                 dazzling_haibt
+d52ec2944327   ubuntu            "/bin/bash"              2 weeks ago     Exited (127) 2 weeks ago                                               mystifying_hypatia
+c10d8133c57d   ubuntu            "/bin/bash"              2 weeks ago     Exited (0) 2 weeks ago                                                 exciting_varahamihira
+eb30def9a6c6   ubuntu            "/bin/bash"              2 weeks ago     Exited (0) 2 weeks ago                                                 nice_hofstadter
